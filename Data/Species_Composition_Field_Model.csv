@@ -1,0 +1,98 @@
+Number ,Case,Species,Percent
+1,Field,Carya spp.,2.3
+2,Field,Carya spp.,7.15
+3,Field,QUERprin,16.91
+4,Field,QUERprin,16.98
+5,Field,QUERprin,24.34
+6,Field,QUERvelu,14.11
+7,Field,QUERvelu,14.41
+8,Field,QUERvelu,15.6
+9,Field,CASTdent,38.35
+10,Field,CASTdent,19.88
+11,Field,CASTdent,28.47
+12,Field,QUERalba,4.38
+13,Field,QUERalba,13.87
+14,Field,QUERalba,1.81
+15,Field,LIRItuli,2
+16,Field,LIRItuli,4.19
+17,Field,LIRItuli,1.96
+18,Field,Acer spp.,1.55
+19,Field,Acer spp.,8.08
+20,Field,Acer spp.,8.77
+21,Model,Carya spp.,1.1
+22,Model,Carya spp.,1.01
+23,Model,Carya spp.,1.31
+24,Model,Carya spp.,1.24
+25,Model,Carya spp.,1.12
+26,Model,Carya spp.,1.14
+27,Model,Carya spp.,0.54
+28,Model,Carya spp.,0.69
+29,Model,Carya spp.,0.93
+30,Model,Carya spp.,1.08
+31,Model,Carya spp.,1.02
+32,Model,QUERprin,12.96
+33,Model,QUERprin,13.78
+34,Model,QUERprin,12.45
+35,Model,QUERprin,12.97
+36,Model,QUERprin,10.67
+37,Model,QUERprin,11.4
+38,Model,QUERprin,10.47
+39,Model,QUERprin,9.31
+40,Model,QUERprin,10.16
+41,Model,QUERprin,8.87
+42,Model,QUERprin,8.54
+43,Model,QUERvelu,12.02
+44,Model,QUERvelu,10.85
+45,Model,QUERvelu,12.13
+46,Model,QUERvelu,12.55
+47,Model,QUERvelu,13.24
+48,Model,QUERvelu,13.21
+49,Model,QUERvelu,12.53
+50,Model,QUERvelu,11.84
+51,Model,QUERvelu,11.61
+52,Model,QUERvelu,11.51
+53,Model,QUERvelu,11.96
+54,Model,CASTdent,36.75
+55,Model,CASTdent,35.68
+56,Model,CASTdent,36.63
+57,Model,CASTdent,32.7
+58,Model,CASTdent,35.38
+59,Model,CASTdent,35.59
+60,Model,CASTdent,37
+61,Model,CASTdent,38.03
+62,Model,CASTdent,34.51
+63,Model,CASTdent,35.37
+64,Model,CASTdent,35.71
+65,Model,QUERalba,11.42
+66,Model,QUERalba,10.76
+67,Model,QUERalba,11.84
+68,Model,QUERalba,12.3
+69,Model,QUERalba,11.79
+70,Model,QUERalba,12.43
+71,Model,QUERalba,11.43
+72,Model,QUERalba,10.87
+73,Model,QUERalba,11.8
+74,Model,QUERalba,11.31
+75,Model,QUERalba,10.65
+76,Model,LIRItuli,10.54
+77,Model,LIRItuli,11.64
+78,Model,LIRItuli,10.72
+79,Model,LIRItuli,12.62
+80,Model,LIRItuli,10.79
+81,Model,LIRItuli,10.58
+82,Model,LIRItuli,13.42
+83,Model,LIRItuli,15.16
+84,Model,LIRItuli,15.92
+85,Model,LIRItuli,15.87
+86,Model,LIRItuli,16.78
+87,Model,Acer spp.,2.04
+88,Model,Acer spp.,2.53
+89,Model,Acer spp.,2.39
+90,Model,Acer spp.,2.31
+91,Model,Acer spp.,3.24
+92,Model,Acer spp.,3.48
+93,Model,Acer spp.,3.52
+94,Model,Acer spp.,3.22
+95,Model,Acer spp.,4.11
+96,Model,Acer spp.,3.86
+97,Model,Acer spp.,3.36

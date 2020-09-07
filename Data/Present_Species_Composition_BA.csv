@@ -1,0 +1,562 @@
+Year,Species,Basal_Percent
+0,Other,41.51
+10,Other,20.33
+20,Other,16.11
+30,Other,13.41
+40,Other,10.9
+50,Other,9.17
+60,Other,7.88
+70,Other,6.76
+80,Other,5.88
+90,Other,5.38
+100,Other,4.92
+110,Other,4.26
+120,Other,4.03
+130,Other,6.09
+140,Other,6.7
+150,Other,7.08
+160,Other,8.2
+170,Other,7.29
+180,Other,6.09
+190,Other,5.28
+200,Other,5.64
+210,Other,5.79
+220,Other,5.53
+230,Other,4.84
+240,Other,4.05
+250,Other,3.94
+260,Other,3.3
+270,Other,4.37
+280,Other,4.08
+290,Other,3.88
+300,Other,4.72
+310,Other,4.21
+320,Other,3.53
+330,Other,2.68
+340,Other,3.66
+350,Other,4.83
+360,Other,4.53
+370,Other,3.85
+380,Other,3.33
+390,Other,4.93
+400,Other,4.71
+410,Other,4.39
+420,Other,4.74
+430,Other,4.32
+440,Other,4.01
+450,Other,5.42
+460,Other,5.35
+470,Other,5.38
+480,Other,5.69
+490,Other,5.76
+500,Other,5.73
+0,Red maple,17.92
+10,Red maple,26.64
+20,Red maple,23.03
+30,Red maple,18.26
+40,Red maple,13.54
+50,Red maple,10.09
+60,Red maple,6.66
+70,Red maple,4.14
+80,Red maple,2.77
+90,Red maple,1.49
+100,Red maple,0.71
+110,Red maple,0.25
+120,Red maple,0.27
+130,Red maple,0.09
+140,Red maple,0.51
+150,Red maple,0.97
+160,Red maple,0.96
+170,Red maple,0.88
+180,Red maple,1.15
+190,Red maple,1.02
+200,Red maple,1.44
+210,Red maple,1.71
+220,Red maple,1.62
+230,Red maple,1.6
+240,Red maple,2.04
+250,Red maple,1.91
+260,Red maple,2.25
+270,Red maple,2
+280,Red maple,2.36
+290,Red maple,2.04
+300,Red maple,2.24
+310,Red maple,2.67
+320,Red maple,1.83
+330,Red maple,1.52
+340,Red maple,1.83
+350,Red maple,2.92
+360,Red maple,3.62
+370,Red maple,3.79
+380,Red maple,2.96
+390,Red maple,3.41
+400,Red maple,3.63
+410,Red maple,3.44
+420,Red maple,2.43
+430,Red maple,2.83
+440,Red maple,2.48
+450,Red maple,3.05
+460,Red maple,3.69
+470,Red maple,4.61
+480,Red maple,4.43
+490,Red maple,4.72
+500,Red maple,5.53
+0,Sugar maple,13.21
+10,Sugar maple,8.92
+20,Sugar maple,8.8
+30,Sugar maple,8.76
+40,Sugar maple,8.54
+50,Sugar maple,8.37
+60,Sugar maple,7.74
+70,Sugar maple,7.55
+80,Sugar maple,7.08
+90,Sugar maple,6.66
+100,Sugar maple,5.81
+110,Sugar maple,5.85
+120,Sugar maple,5.44
+130,Sugar maple,4.91
+140,Sugar maple,4.65
+150,Sugar maple,4.53
+160,Sugar maple,4.34
+170,Sugar maple,4.57
+180,Sugar maple,4.1
+190,Sugar maple,3.23
+200,Sugar maple,3.49
+210,Sugar maple,3.55
+220,Sugar maple,3.67
+230,Sugar maple,3.4
+240,Sugar maple,2.85
+250,Sugar maple,2.79
+260,Sugar maple,3.16
+270,Sugar maple,3.07
+280,Sugar maple,2.94
+290,Sugar maple,3.41
+300,Sugar maple,3.06
+310,Sugar maple,3.42
+320,Sugar maple,3.66
+330,Sugar maple,4.24
+340,Sugar maple,4.11
+350,Sugar maple,4.3
+360,Sugar maple,3.8
+370,Sugar maple,3.49
+380,Sugar maple,3.24
+390,Sugar maple,3.35
+400,Sugar maple,3.84
+410,Sugar maple,3.86
+420,Sugar maple,3.85
+430,Sugar maple,3.81
+440,Sugar maple,3.89
+450,Sugar maple,4.56
+460,Sugar maple,4.88
+470,Sugar maple,4.02
+480,Sugar maple,3.98
+490,Sugar maple,4.23
+500,Sugar maple,4.28
+0,Hickory spp.,0
+10,Hickory spp.,0.64
+20,Hickory spp.,0.7
+30,Hickory spp.,0.77
+40,Hickory spp.,0.95
+50,Hickory spp.,1.12
+60,Hickory spp.,1.36
+70,Hickory spp.,1.68
+80,Hickory spp.,1.95
+90,Hickory spp.,2.36
+100,Hickory spp.,2.67
+110,Hickory spp.,2.8
+120,Hickory spp.,2.65
+130,Hickory spp.,2.42
+140,Hickory spp.,2.74
+150,Hickory spp.,2.72
+160,Hickory spp.,2.66
+170,Hickory spp.,2.82
+180,Hickory spp.,2.39
+190,Hickory spp.,2.34
+200,Hickory spp.,2.48
+210,Hickory spp.,1.87
+220,Hickory spp.,1.21
+230,Hickory spp.,1.34
+240,Hickory spp.,1.04
+250,Hickory spp.,1.31
+260,Hickory spp.,1.65
+270,Hickory spp.,1.57
+280,Hickory spp.,1.49
+290,Hickory spp.,1.41
+300,Hickory spp.,1.4
+310,Hickory spp.,1.57
+320,Hickory spp.,1.74
+330,Hickory spp.,1.49
+340,Hickory spp.,1.54
+350,Hickory spp.,1.19
+360,Hickory spp.,1.09
+370,Hickory spp.,1.12
+380,Hickory spp.,0.94
+390,Hickory spp.,1.2
+400,Hickory spp.,1.5
+410,Hickory spp.,1.81
+420,Hickory spp.,1.9
+430,Hickory spp.,2.07
+440,Hickory spp.,2.2
+450,Hickory spp.,1.78
+460,Hickory spp.,1.8
+470,Hickory spp.,1.63
+480,Hickory spp.,1.68
+490,Hickory spp.,1.94
+500,Hickory spp.,1.95
+0,Beech,0
+10,Beech,0.06
+20,Beech,0.09
+30,Beech,0.07
+40,Beech,0.09
+50,Beech,0.11
+60,Beech,0.14
+70,Beech,0.16
+80,Beech,0.15
+90,Beech,0.18
+100,Beech,0.21
+110,Beech,0.25
+120,Beech,0.32
+130,Beech,0.4
+140,Beech,0.4
+150,Beech,0.47
+160,Beech,0.57
+170,Beech,0.69
+180,Beech,0.84
+190,Beech,1.06
+200,Beech,1.38
+210,Beech,1.54
+220,Beech,1.72
+230,Beech,1.67
+240,Beech,1.82
+250,Beech,2
+260,Beech,2.46
+270,Beech,2.43
+280,Beech,2.46
+290,Beech,2.64
+300,Beech,3.02
+310,Beech,3.42
+320,Beech,3.56
+330,Beech,3.75
+340,Beech,3.69
+350,Beech,3.92
+360,Beech,4.13
+370,Beech,4.06
+380,Beech,4.05
+390,Beech,3.66
+400,Beech,3.66
+410,Beech,4.07
+420,Beech,4.5
+430,Beech,4.84
+440,Beech,5.07
+450,Beech,5.65
+460,Beech,6.19
+470,Beech,6.74
+480,Beech,6.67
+490,Beech,6.89
+500,Beech,6.72
+0,Yellow poplar,17.92
+10,Yellow poplar,36.9
+20,Yellow poplar,43.43
+30,Yellow poplar,49.23
+40,Yellow poplar,54.9
+50,Yellow poplar,58.24
+60,Yellow poplar,61.63
+70,Yellow poplar,63.1
+80,Yellow poplar,63.27
+90,Yellow poplar,62.1
+100,Yellow poplar,61.66
+110,Yellow poplar,57.72
+120,Yellow poplar,53.72
+130,Yellow poplar,46.44
+140,Yellow poplar,43.23
+150,Yellow poplar,39.64
+160,Yellow poplar,33.48
+170,Yellow poplar,26.98
+180,Yellow poplar,25.47
+190,Yellow poplar,26.06
+200,Yellow poplar,20.79
+210,Yellow poplar,20.84
+220,Yellow poplar,20.03
+230,Yellow poplar,20.07
+240,Yellow poplar,19.17
+250,Yellow poplar,17.84
+260,Yellow poplar,14.34
+270,Yellow poplar,14.4
+280,Yellow poplar,16.43
+290,Yellow poplar,15.47
+300,Yellow poplar,17.53
+310,Yellow poplar,18.56
+320,Yellow poplar,18.8
+330,Yellow poplar,19.11
+340,Yellow poplar,19.36
+350,Yellow poplar,19.16
+360,Yellow poplar,20.73
+370,Yellow poplar,22.26
+380,Yellow poplar,21.99
+390,Yellow poplar,22.99
+400,Yellow poplar,24.46
+410,Yellow poplar,26.63
+420,Yellow poplar,27.49
+430,Yellow poplar,28.43
+440,Yellow poplar,31.57
+450,Yellow poplar,31.93
+460,Yellow poplar,32.41
+470,Yellow poplar,33.22
+480,Yellow poplar,33.19
+490,Yellow poplar,34.26
+500,Yellow poplar,34.8
+0,Black cherry,1.89
+10,Black cherry,1.85
+20,Black cherry,2.28
+30,Black cherry,2.81
+40,Black cherry,3.32
+50,Black cherry,3.73
+60,Black cherry,4.02
+70,Black cherry,4.56
+80,Black cherry,5.21
+90,Black cherry,6.32
+100,Black cherry,6.78
+110,Black cherry,7.91
+120,Black cherry,9.17
+130,Black cherry,10.76
+140,Black cherry,10.75
+150,Black cherry,10.04
+160,Black cherry,11.25
+170,Black cherry,11.49
+180,Black cherry,11.91
+190,Black cherry,11.52
+200,Black cherry,10.91
+210,Black cherry,9.2
+220,Black cherry,9.74
+230,Black cherry,8.54
+240,Black cherry,7.65
+250,Black cherry,7.26
+260,Black cherry,8.68
+270,Black cherry,8.83
+280,Black cherry,8.77
+290,Black cherry,9.88
+300,Black cherry,8.62
+310,Black cherry,8.19
+320,Black cherry,8.96
+330,Black cherry,8.34
+340,Black cherry,7.67
+350,Black cherry,7.56
+360,Black cherry,7.99
+370,Black cherry,8.13
+380,Black cherry,9.07
+390,Black cherry,7.39
+400,Black cherry,6.15
+410,Black cherry,4.63
+420,Black cherry,4.35
+430,Black cherry,3.11
+440,Black cherry,2.72
+450,Black cherry,2.01
+460,Black cherry,2.33
+470,Black cherry,1.6
+480,Black cherry,1.47
+490,Black cherry,1.65
+500,Black cherry,1.05
+0,White oak,1.89
+10,White oak,1.08
+20,White oak,1.27
+30,White oak,1.48
+40,White oak,1.6
+50,White oak,1.83
+60,White oak,2.04
+70,White oak,2.23
+80,White oak,2.41
+90,White oak,2.83
+100,White oak,3.35
+110,White oak,3.98
+120,White oak,4.68
+130,White oak,5.63
+140,White oak,5.82
+150,White oak,6.52
+160,White oak,7.84
+170,White oak,9.45
+180,White oak,10.42
+190,White oak,10.79
+200,White oak,12.63
+210,White oak,14.08
+220,White oak,15.37
+230,White oak,16.73
+240,White oak,16.9
+250,White oak,17.84
+260,White oak,18.48
+270,White oak,18.53
+280,White oak,18.89
+290,White oak,17.24
+300,White oak,18.08
+310,White oak,16.5
+320,White oak,17.73
+330,White oak,18.14
+340,White oak,19.1
+350,White oak,19.25
+360,White oak,17.05
+370,White oak,17.22
+380,White oak,16.52
+390,White oak,17.37
+400,White oak,17.27
+410,White oak,17.28
+420,White oak,17.92
+430,White oak,16.23
+440,White oak,15.18
+450,White oak,13.11
+460,White oak,13.28
+470,White oak,11.79
+480,White oak,11.79
+490,White oak,10.6
+500,White oak,9.69
+0,Chestnut oak,1.89
+10,Chestnut oak,0.96
+20,Chestnut oak,1.09
+30,Chestnut oak,1.16
+40,Chestnut oak,1.23
+50,Chestnut oak,1.26
+60,Chestnut oak,1.33
+70,Chestnut oak,1.44
+80,Chestnut oak,1.57
+90,Chestnut oak,1.7
+100,Chestnut oak,1.88
+110,Chestnut oak,2.2
+120,Chestnut oak,2.52
+130,Chestnut oak,3.12
+140,Chestnut oak,2.97
+150,Chestnut oak,3.39
+160,Chestnut oak,3.95
+170,Chestnut oak,4.29
+180,Chestnut oak,4.88
+190,Chestnut oak,5.25
+200,Chestnut oak,5.54
+210,Chestnut oak,5.65
+220,Chestnut oak,6.34
+230,Chestnut oak,6.84
+240,Chestnut oak,7.46
+250,Chestnut oak,7.59
+260,Chestnut oak,8.36
+270,Chestnut oak,7.63
+280,Chestnut oak,7.28
+290,Chestnut oak,8.27
+300,Chestnut oak,7.58
+310,Chestnut oak,7.5
+320,Chestnut oak,5.8
+330,Chestnut oak,5.98
+340,Chestnut oak,6.39
+350,Chestnut oak,5.9
+360,Chestnut oak,5.93
+370,Chestnut oak,6.31
+380,Chestnut oak,7.2
+390,Chestnut oak,7.17
+400,Chestnut oak,6.65
+410,Chestnut oak,5.94
+420,Chestnut oak,5.01
+430,Chestnut oak,4.84
+440,Chestnut oak,3.92
+450,Chestnut oak,4.17
+460,Chestnut oak,4.83
+470,Chestnut oak,4.76
+480,Chestnut oak,5.03
+490,Chestnut oak,5.3
+500,Chestnut oak,5.06
+0,Red oak,1.89
+10,Red oak,1.15
+20,Red oak,1.4
+30,Red oak,1.76
+40,Red oak,2.15
+50,Red oak,2.61
+60,Red oak,3.13
+70,Red oak,3.64
+80,Red oak,4.18
+90,Red oak,4.69
+100,Red oak,5.34
+110,Red oak,6.64
+120,Red oak,7.65
+130,Red oak,8.48
+140,Red oak,9.18
+150,Red oak,9.51
+160,Red oak,11.16
+170,Red oak,13.08
+180,Red oak,13.87
+190,Red oak,15.91
+200,Red oak,15.65
+210,Red oak,16.66
+220,Red oak,15.44
+230,Red oak,16.92
+240,Red oak,18.07
+250,Red oak,18.34
+260,Red oak,18.45
+270,Red oak,19
+280,Red oak,19.38
+290,Red oak,19.25
+300,Red oak,17.24
+310,Red oak,16.99
+320,Red oak,16.47
+330,Red oak,15.91
+340,Red oak,15.09
+350,Red oak,13.7
+360,Red oak,15.11
+370,Red oak,14.43
+380,Red oak,15.25
+390,Red oak,14.59
+400,Red oak,15.62
+410,Red oak,15.14
+420,Red oak,14.48
+430,Red oak,14.06
+440,Red oak,14.85
+450,Red oak,14.68
+460,Red oak,12.88
+470,Red oak,13.15
+480,Red oak,13.77
+490,Red oak,13.41
+500,Red oak,13.47
+0,Black oak,1.89
+10,Black oak,1.47
+20,Black oak,1.8
+30,Black oak,2.29
+40,Black oak,2.79
+50,Black oak,3.47
+60,Black oak,4.08
+70,Black oak,4.74
+80,Black oak,5.52
+90,Black oak,6.27
+100,Black oak,6.67
+110,Black oak,8.15
+120,Black oak,9.55
+130,Black oak,11.66
+140,Black oak,13.06
+150,Black oak,15.13
+160,Black oak,15.59
+170,Black oak,18.47
+180,Black oak,18.87
+190,Black oak,17.54
+200,Black oak,20.05
+210,Black oak,19.13
+220,Black oak,19.32
+230,Black oak,18.04
+240,Black oak,18.94
+250,Black oak,19.16
+260,Black oak,18.87
+270,Black oak,18.17
+280,Black oak,15.92
+290,Black oak,16.5
+300,Black oak,16.52
+310,Black oak,16.96
+320,Black oak,17.92
+330,Black oak,18.82
+340,Black oak,17.56
+350,Black oak,17.28
+360,Black oak,16.02
+370,Black oak,15.34
+380,Black oak,15.46
+390,Black oak,13.96
+400,Black oak,12.53
+410,Black oak,12.8
+420,Black oak,13.33
+430,Black oak,15.46
+440,Black oak,14.1
+450,Black oak,13.64
+460,Black oak,12.35
+470,Black oak,13.12
+480,Black oak,12.3
+490,Black oak,11.24
+500,Black oak,11.73

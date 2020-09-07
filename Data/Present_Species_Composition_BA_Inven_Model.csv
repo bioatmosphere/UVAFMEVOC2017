@@ -1,0 +1,85 @@
+Species,Case,BA_Per
+ACERrubr,Inventory,5.2
+ACERrubr,Inventory,12.3
+ACERrubr,Inventory,5.8
+Carya spp.,Inventory,13.2
+Carya spp.,Inventory,26.5
+Carya spp.,Inventory,6.1
+LIRItuli,Inventory,41
+LIRItuli,Inventory,3.9
+LIRItuli,Inventory,1.4
+QUERalba,Inventory,6.9
+QUERalba,Inventory,13.2
+QUERalba,Inventory,8.1
+QUERprin,Inventory,3
+QUERprin,Inventory,15.6
+QUERprin,Inventory,46.6
+QUERrubr,Inventory,4.4
+QUERrubr,Inventory,1
+QUERrubr,Inventory,3.6
+QUERvelu,Inventory,2.8
+QUERvelu,Inventory,3.6
+QUERvelu,Inventory,4.3
+ACERrubr,Model,26.64
+ACERrubr,Model,23.03
+ACERrubr,Model,18.26
+ACERrubr,Model,13.54
+ACERrubr,Model,10.09
+ACERrubr,Model,6.66
+ACERrubr,Model,4.14
+ACERrubr,Model,2.77
+ACERrubr,Model,1.49
+Carya spp.,Model,0.64
+Carya spp.,Model,0.7
+Carya spp.,Model,0.77
+Carya spp.,Model,0.95
+Carya spp.,Model,1.12
+Carya spp.,Model,1.36
+Carya spp.,Model,1.68
+Carya spp.,Model,1.95
+Carya spp.,Model,2.36
+LIRItuli,Model,36.9
+LIRItuli,Model,43.43
+LIRItuli,Model,49.23
+LIRItuli,Model,54.9
+LIRItuli,Model,58.24
+LIRItuli,Model,61.63
+LIRItuli,Model,63.1
+LIRItuli,Model,63.27
+LIRItuli,Model,62.1
+QUERalba,Model,1.08
+QUERalba,Model,1.27
+QUERalba,Model,1.48
+QUERalba,Model,1.6
+QUERalba,Model,1.83
+QUERalba,Model,2.04
+QUERalba,Model,2.23
+QUERalba,Model,2.41
+QUERalba,Model,2.83
+QUERprin,Model,0.96
+QUERprin,Model,1.09
+QUERprin,Model,1.16
+QUERprin,Model,1.23
+QUERprin,Model,1.26
+QUERprin,Model,1.33
+QUERprin,Model,1.44
+QUERprin,Model,1.57
+QUERprin,Model,1.7
+QUERrubr,Model,1.15
+QUERrubr,Model,1.4
+QUERrubr,Model,1.76
+QUERrubr,Model,2.15
+QUERrubr,Model,2.61
+QUERrubr,Model,3.13
+QUERrubr,Model,3.64
+QUERrubr,Model,4.18
+QUERrubr,Model,4.69
+QUERvelu,Model,1.47
+QUERvelu,Model,1.8
+QUERvelu,Model,2.29
+QUERvelu,Model,2.79
+QUERvelu,Model,3.47
+QUERvelu,Model,4.08
+QUERvelu,Model,4.74
+QUERvelu,Model,5.52
+QUERvelu,Model,6.27
