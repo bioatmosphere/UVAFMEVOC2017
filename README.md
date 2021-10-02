@@ -6,3 +6,4 @@ Wang, B., Shugart, H. H., & Lerdau, M. T. (2017). An individual-based model of f
 https://doi.org/10.1016/j.ecolmodel.2017.02.006
 `**
 
+![Light withn canopy and crown](https://github.com/bioatmosphere/UVAFMEVOC2017/blob/master/Figures/Canopy_Light_Simulation.svg)
